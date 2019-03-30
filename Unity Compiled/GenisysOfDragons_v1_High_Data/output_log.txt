@@ -1,0 +1,198 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\drarr\Dropbox\Projekte\Genisys of Dragons\UNITY_5.3\Final\Builds\GenisysOfDragons_v1_High_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 3520x1924 at -1600,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.491517 ms
+Environment Started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialisizing Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5410 -> priority: 1 
+  Thread -> id: 5ca0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.000263 ms
+Environment Started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 31143 unused Assets to reduce memory usage. Loaded Objects now: 1855.
+Total: 91.682899 ms (FindLiveObjects: 1.227552 ms CreateObjectMapping: 2.995339 ms MarkObjects: 0.561645 ms  DeleteObjects: 86.897736 ms)
+
+Initialisizing Cliff Scene Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.965443 ms
+Environment Started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 1000.
+Total: 1.576331 ms (FindLiveObjects: 0.034133 ms CreateObjectMapping: 0.025755 ms MarkObjects: 0.230864 ms  DeleteObjects: 1.285578 ms)
+
+Initialisizing Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.867990 ms
+Environment Started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1406 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 1.737998 ms (FindLiveObjects: 0.106433 ms CreateObjectMapping: 0.088125 ms MarkObjects: 0.274306 ms  DeleteObjects: 1.268512 ms)
+
+Initialisizing Cliff Scene Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Scene '' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Next dialogState step: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next dialogState step: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.528019 ms
+Environment Started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1000.
+Total: 1.617601 ms (FindLiveObjects: 0.040959 ms CreateObjectMapping: 0.026065 ms MarkObjects: 0.240483 ms  DeleteObjects: 1.309782 ms)
+
+Initialisizing Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Learning Mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
