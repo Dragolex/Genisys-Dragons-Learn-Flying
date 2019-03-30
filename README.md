@@ -3,15 +3,18 @@
 This is the result of a student project in 2015 with the topic Artificial Intelligence.
 It has been presented at the "Media Night", a public event of the Hochschule der Medien Stuttgart and yielded me a grade of 1.3 (European grading system; 3.7 using the American system) by Prof. Dr. Maucher.
 
-![alt text](LINK)
+![alt text](https://github.com/Drarra/Genisys-Dragons-Learn-Flying/blob/master/Screenshots/Poster.png)  
 
 The goal was to develop a genetic algorithm and a matching test-environment to find the most optimal wing shape and movement-model that makes something that resembles a flying creature actually fly.
 
 Unfortunately the full documentation is only available in German.
 However there is an English version of the trailer that has been made for the Media Night.
 
-Trailer (English): https://www.youtube.com/watch?v=UTTSJmmApWA
+Trailer (English): https://www.youtube.com/watch?v=UTTSJmmApWA  
 Trailer (German): https://www.youtube.com/watch?v=rRtwcqqLKsc
+
+
+**You can try the project without installing Unity by using the precompiled projects in "Unity Compiled"**
 
 
 
